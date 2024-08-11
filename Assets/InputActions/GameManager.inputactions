@@ -1,0 +1,45 @@
+{
+    "name": "P1",
+    "maps": [
+        {
+            "name": "Controls",
+            "id": "90e36225-7b31-4a66-8652-f56e1f7b62eb",
+            "actions": [
+                {
+                    "name": "Leave",
+                    "type": "Button",
+                    "id": "475f01ee-8302-491e-a7d5-e3d454b5f5e9",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "01624bd0-251d-4c23-966a-5a09ced8020c",
+                    "path": "<Keyboard>/backspace",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Leave",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": [
+        {
+            "name": "Keyboard",
+            "bindingGroup": "Keyboard",
+            "devices": [
+                {
+                    "devicePath": "<Keyboard>",
+                    "isOptional": false,
+                    "isOR": false
+                }
+            ]
+        }
+    ]
+}

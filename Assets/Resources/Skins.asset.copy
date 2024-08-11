@@ -1,0 +1,231 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a7b8128bc4e736e4b98146aaa4969ade, type: 3}
+  m_Name: Skins
+  m_EditorClassIdentifier: 
+  skins:
+  - skinName: Blue Boi
+    displayName: 
+    skin: {fileID: 238097307971265398, guid: 60e811c49b6c11644a8953c205c8b7b6, type: 3}
+  - skinName: Red Boi
+    displayName: 
+    skin: {fileID: 8911666525028396504, guid: 6cdc1bbaee7c8f74cb637bb8882bb51f, type: 3}
+  - skinName: Green Boi
+    displayName: 
+    skin: {fileID: 7312649496640556021, guid: c54d2c7261858ed4e95b15812a96bc62, type: 3}
+  - skinName: Yellow Boi
+    displayName: 
+    skin: {fileID: 7588374984310118344, guid: d26767f9e3f007d419fa7b4b00c84cc4, type: 3}
+  - skinName: Magenta Boi
+    displayName: 
+    skin: {fileID: 4573844660425105820, guid: 3e68b9678b9bb3747ba03527baf01415, type: 3}
+  - skinName: Cyan Boi
+    displayName: 
+    skin: {fileID: 9011472639686422308, guid: 30dfba4cea056054dae95a7554c01129, type: 3}
+  - skinName: Bob
+    displayName: 
+    skin: {fileID: 549817592003783544, guid: dd65b96a73430974c89672672fce7bd6, type: 3}
+  - skinName: Fred
+    displayName: 
+    skin: {fileID: 1427174344195024322, guid: 64562ba9c84b52f40917181de1a7b3f1, type: 3}
+  - skinName: Cake
+    displayName: 
+    skin: {fileID: 2984262968436116969, guid: 99764bf99cb844842a819379594f36eb, type: 3}
+  - skinName: CanOfBeans
+    displayName: 
+    skin: {fileID: 1588497862806470447, guid: b1bc2feab0c97d147b0a532bca19d34c, type: 3}
+  - skinName: Christmas Tree
+    displayName: 
+    skin: {fileID: 142718304530627286, guid: d374e53957df25d49b5cacf034641295, type: 3}
+  - skinName: Fancy Pants
+    displayName: 
+    skin: {fileID: 3009966394259368612, guid: 1f872fc32f0acfb4aa01731cf6f496e0, type: 3}
+  - skinName: Glowing Ball of Doom
+    displayName: 
+    skin: {fileID: 2695759453197855398, guid: 32c23dabf5968eb45b8df160912c5569, type: 3}
+  - skinName: Glowing Cone of Doom
+    displayName: 
+    skin: {fileID: 3611857692513563300, guid: b16d44e5494d4af49b02041cf650b04b, type: 3}
+  - skinName: Glowing Rhombicosidodecahedron of Doom
+    displayName: 
+    skin: {fileID: 4657130482040266456, guid: fe3507bbacc978747a8589d442eca474, type: 3}
+  - skinName: Gold Pog
+    displayName: 
+    skin: {fileID: 7669746129108852441, guid: 45ff168d54bb57042b655b397a9adb0f, type: 3}
+  - skinName: Lego Brick
+    displayName: 
+    skin: {fileID: 6566713040911400541, guid: 747b0ba87882fee44af0f0ad6054400b, type: 3}
+  - skinName: Lightbulb
+    displayName: 
+    skin: {fileID: 5376875543862388447, guid: d3cb39ebe8cd4eb4a8819f640195c314, type: 3}
+  - skinName: Lightswitch
+    displayName: 
+    skin: {fileID: 7261804783750138884, guid: 0c7a6d3e953bd19489b262432d14e327, type: 3}
+  - skinName: Long Nose
+    displayName: 
+    skin: {fileID: 1826825623313447431, guid: d2e635bca5490fe4b8f06fc1089105c1, type: 3}
+  - skinName: Minecraft
+    displayName: 
+    skin: {fileID: 7060552404389698823, guid: e58e42601859d1b4c88300de39a6af92, type: 3}
+  - skinName: Mr. Skelebones
+    displayName: 
+    skin: {fileID: 4819197160948019545, guid: cd52e6dbfc79f804e9a22b8303d5342f, type: 3}
+  - skinName: Norman
+    displayName: 
+    skin: {fileID: 8429438319399258316, guid: 7b45e651d2e149149a3f0641a7ee09f0, type: 3}
+  - skinName: Pencil
+    displayName: 
+    skin: {fileID: 7706527388998271755, guid: deeb79d0f811b84419d98ac01a3f43c3, type: 3}
+  - skinName: Pog Frog
+    displayName: 
+    skin: {fileID: 9175257171886903045, guid: 1a1eb2f250d002040846a8451fa3bcad, type: 3}
+  - skinName: Presant
+    displayName: 
+    skin: {fileID: 8255218678618768759, guid: fb4eb442ed19c8641974de23dca809b8, type: 3}
+  - skinName: Rad Man
+    displayName: 
+    skin: {fileID: 1544697351899312056, guid: 4fa7c4f7f51683244b00f3acd879a329, type: 3}
+  - skinName: RGB-Man
+    displayName: 
+    skin: {fileID: 7669746129108852441, guid: e3e54d2e019c1f040a47148da784ad5b, type: 3}
+  - skinName: Robo Dude
+    displayName: 
+    skin: {fileID: 5091155673414914686, guid: b610ca9773834024896b49447b2f74a0, type: 3}
+  - skinName: Sandwitch
+    displayName: 
+    skin: {fileID: 2570262161792073369, guid: 7e39bd236cf5a8e44bc9d86b54521030, type: 3}
+  - skinName: Santa Claus
+    displayName: 
+    skin: {fileID: 2897822461058754131, guid: 09dd2dd04185d984299113cc2dcc4731, type: 3}
+  - skinName: Spaceman
+    displayName: 
+    skin: {fileID: 6528566485562243442, guid: e47d78a22d3c72443aa2a6bb7eede8bd, type: 3}
+  - skinName: Spooder-Man
+    displayName: 
+    skin: {fileID: 6172910270872447268, guid: f9417eec9a887574882ba0b3599ba8aa, type: 3}
+  - skinName: Supa Fancy
+    displayName: 
+    skin: {fileID: 9025717986522295451, guid: 390b224b2304ee24b8b43784effd4a24, type: 3}
+  - skinName: Sussy Baka
+    displayName: 
+    skin: {fileID: 5504332085450567426, guid: b942e7ccab8182b459f69151079ec682, type: 3}
+  - skinName: Trafic Light
+    displayName: 
+    skin: {fileID: 4197498065291567065, guid: 2ec409213e1d8e640916abc876ca992e, type: 3}
+  - skinName: Television
+    displayName: 
+    skin: {fileID: 7337124561221133992, guid: 5408729e54f11814ab7df3248c60e893, type: 3}
+  - skinName: Custom 1
+    displayName: Bill
+    skin: {fileID: 6004597168116374727, guid: 351a96fd1eaeae14880cc9714a9c1d37, type: 3}
+  - skinName: Custom 2
+    displayName: 
+    skin: {fileID: 6004597168116374727, guid: b6056881b2f5d8f438b2a6efe75ffb4b, type: 3}
+  - skinName: Custom 3
+    displayName: 
+    skin: {fileID: 6004597168116374727, guid: 7027afa411dad6e499ea99154d091cf8, type: 3}
+  - skinName: Custom 4
+    displayName: 
+    skin: {fileID: 6004597168116374727, guid: 68e8f976728ba294a96f94bc91933696, type: 3}
+  - skinName: Custom 5
+    displayName: 
+    skin: {fileID: 6004597168116374727, guid: 71b1e80ed9a819c46b0cca6cfb31e139, type: 3}
+  - skinName: Custom 6
+    displayName: 
+    skin: {fileID: 6004597168116374727, guid: f005769fc6b2fe141bca895d1a9b3ace, type: 3}
+  - skinName: Custom 7
+    displayName: 
+    skin: {fileID: 6004597168116374727, guid: c61d3deaffbce2440b3e9636554da954, type: 3}
+  - skinName: Custom 8
+    displayName: 
+    skin: {fileID: 6004597168116374727, guid: b2acd7074c8a3d644bfcc75b42cfe3f9, type: 3}
+  Skins:
+  - Name: Blue Boi
+    Prefab: {fileID: 238097307971265398, guid: 60e811c49b6c11644a8953c205c8b7b6, type: 3}
+  - Name: Red Boi
+    Prefab: {fileID: 8911666525028396504, guid: 6cdc1bbaee7c8f74cb637bb8882bb51f, type: 3}
+  - Name: Green Boi
+    Prefab: {fileID: 7312649496640556021, guid: c54d2c7261858ed4e95b15812a96bc62, type: 3}
+  - Name: Yellow Boi
+    Prefab: {fileID: 7588374984310118344, guid: d26767f9e3f007d419fa7b4b00c84cc4, type: 3}
+  - Name: Magenta Boi
+    Prefab: {fileID: 4573844660425105820, guid: 3e68b9678b9bb3747ba03527baf01415, type: 3}
+  - Name: Cyan Boi
+    Prefab: {fileID: 9011472639686422308, guid: 30dfba4cea056054dae95a7554c01129, type: 3}
+  - Name: Bob
+    Prefab: {fileID: 549817592003783544, guid: dd65b96a73430974c89672672fce7bd6, type: 3}
+  - Name: Fred
+    Prefab: {fileID: 1427174344195024322, guid: 64562ba9c84b52f40917181de1a7b3f1, type: 3}
+  - Name: Blockgame
+    Prefab: {fileID: 7060552404389698823, guid: e58e42601859d1b4c88300de39a6af92, type: 3}
+  - Name: Cake
+    Prefab: {fileID: 2984262968436116969, guid: 99764bf99cb844842a819379594f36eb, type: 3}
+  - Name: Can of Beans
+    Prefab: {fileID: 1588497862806470447, guid: b1bc2feab0c97d147b0a532bca19d34c, type: 3}
+  - Name: Christmas Tree
+    Prefab: {fileID: 142718304530627286, guid: d374e53957df25d49b5cacf034641295, type: 3}
+  - Name: Fancy Pants
+    Prefab: {fileID: 3009966394259368612, guid: 1f872fc32f0acfb4aa01731cf6f496e0, type: 3}
+  - Name: Glowing Ball of Doom
+    Prefab: {fileID: 2695759453197855398, guid: 32c23dabf5968eb45b8df160912c5569, type: 3}
+  - Name: Glowing Cone of Doom
+    Prefab: {fileID: 3611857692513563300, guid: b16d44e5494d4af49b02041cf650b04b, type: 3}
+  - Name: Glowing Rhombicosidodecahedron of Doom
+    Prefab: {fileID: 4657130482040266456, guid: fe3507bbacc978747a8589d442eca474, type: 3}
+  - Name: Gold Pog
+    Prefab: {fileID: 7669746129108852441, guid: 45ff168d54bb57042b655b397a9adb0f, type: 3}
+  - Name: Lego Brick
+    Prefab: {fileID: 6566713040911400541, guid: 747b0ba87882fee44af0f0ad6054400b, type: 3}
+  - Name: Light Bulb
+    Prefab: {fileID: 5376875543862388447, guid: d3cb39ebe8cd4eb4a8819f640195c314, type: 3}
+  - Name: Light Switch
+    Prefab: {fileID: 7261804783750138884, guid: 0c7a6d3e953bd19489b262432d14e327, type: 3}
+  - Name: Long Nose
+    Prefab: {fileID: 1826825623313447431, guid: d2e635bca5490fe4b8f06fc1089105c1, type: 3}
+  - Name: Mr. Skelebones
+    Prefab: {fileID: 4819197160948019545, guid: cd52e6dbfc79f804e9a22b8303d5342f, type: 3}
+  - Name: Norman
+    Prefab: {fileID: 8429438319399258316, guid: 7b45e651d2e149149a3f0641a7ee09f0, type: 3}
+  - Name: Pencil
+    Prefab: {fileID: 7706527388998271755, guid: deeb79d0f811b84419d98ac01a3f43c3, type: 3}
+  - Name: Pog Frog
+    Prefab: {fileID: 9175257171886903045, guid: 1a1eb2f250d002040846a8451fa3bcad, type: 3}
+  - Name: Presant
+    Prefab: {fileID: 8255218678618768759, guid: fb4eb442ed19c8641974de23dca809b8, type: 3}
+  - Name: Rad-Man
+    Prefab: {fileID: 1544697351899312056, guid: 4fa7c4f7f51683244b00f3acd879a329, type: 3}
+  - Name: RGB Boi
+    Prefab: {fileID: 7669746129108852441, guid: e3e54d2e019c1f040a47148da784ad5b, type: 3}
+  - Name: Robo Dude
+    Prefab: {fileID: 5091155673414914686, guid: b610ca9773834024896b49447b2f74a0, type: 3}
+  - Name: Sandwitch
+    Prefab: {fileID: 2570262161792073369, guid: 7e39bd236cf5a8e44bc9d86b54521030, type: 3}
+  - Name: Santa
+    Prefab: {fileID: 2897822461058754131, guid: 09dd2dd04185d984299113cc2dcc4731, type: 3}
+  - Name: Spaceman
+    Prefab: {fileID: 6528566485562243442, guid: e47d78a22d3c72443aa2a6bb7eede8bd, type: 3}
+  - Name: Spooder-Man
+    Prefab: {fileID: 6172910270872447268, guid: f9417eec9a887574882ba0b3599ba8aa, type: 3}
+  - Name: Supa Fancy
+    Prefab: {fileID: 9025717986522295451, guid: 390b224b2304ee24b8b43784effd4a24, type: 3}
+  - Name: Sussy Baka
+    Prefab: {fileID: 5504332085450567426, guid: b942e7ccab8182b459f69151079ec682, type: 3}
+  - Name: Trafic Light
+    Prefab: {fileID: 4197498065291567065, guid: 2ec409213e1d8e640916abc876ca992e, type: 3}
+  - Name: TV
+    Prefab: {fileID: 7337124561221133992, guid: 5408729e54f11814ab7df3248c60e893, type: 3}
+  - Name: Guy
+    Prefab: {fileID: 6004597168116374727, guid: f0ea3b0a8e4ce634f9da8f3be584badf, type: 3}
+  - Name: Guy
+    Prefab: {fileID: 6004597168116374727, guid: f0ea3b0a8e4ce634f9da8f3be584badf, type: 3}
+  - Name: Guy
+    Prefab: {fileID: 6004597168116374727, guid: f0ea3b0a8e4ce634f9da8f3be584badf, type: 3}
